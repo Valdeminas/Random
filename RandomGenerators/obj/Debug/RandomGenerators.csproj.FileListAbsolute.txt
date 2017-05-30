@@ -1,0 +1,6 @@
+c:\users\gediminas\documents\visual studio 2015\Projects\RandomGenerators\RandomGenerators\bin\Debug\RandomGenerators.exe.config
+c:\users\gediminas\documents\visual studio 2015\Projects\RandomGenerators\RandomGenerators\obj\Debug\RandomGenerators.csprojResolveAssemblyReference.cache
+c:\users\gediminas\documents\visual studio 2015\Projects\RandomGenerators\RandomGenerators\bin\Debug\RandomGenerators.exe
+c:\users\gediminas\documents\visual studio 2015\Projects\RandomGenerators\RandomGenerators\bin\Debug\RandomGenerators.pdb
+c:\users\gediminas\documents\visual studio 2015\Projects\RandomGenerators\RandomGenerators\obj\Debug\RandomGenerators.exe
+c:\users\gediminas\documents\visual studio 2015\Projects\RandomGenerators\RandomGenerators\obj\Debug\RandomGenerators.pdb
